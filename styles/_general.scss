@@ -1,0 +1,19 @@
+*{
+   box-sizing: border-box;
+   list-style: none;
+}
+
+a{
+   text-decoration: none;
+}
+
+footer{
+   background: #F4F4F4;
+   margin-top: 70px;
+}
+footer{
+   @media screen and (min-width:768px)
+   {
+      margin-top: 90px;
+   }
+}
